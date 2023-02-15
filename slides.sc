@@ -1,5 +1,5 @@
-//> using scala "3.2.1"
-//> using lib "org.scalameta::mdoc:2.3.6"
+//> using scala "3.2.2"
+//> using lib "org.scalameta::mdoc:2.3.7"
 
 import mdoc.MainSettings
 import java.nio.file.Paths
